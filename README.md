@@ -1,4 +1,4 @@
-[![Header](link on gitub logo file)](https://www.linkedin.com/in/bfv3aqa/)
+[![Header](https://github.com/ZrelovAA/zrelovaa/blob/main/assets/header.png)](https://www.linkedin.com/in/bfv3aqa/)
 ## Hello! My name is Andrei. I'm a QA Engineer.
 
 [My CV 👈🏼]()
@@ -26,7 +26,6 @@
 ![Header](https://img.shields.io/badge/Test_IT-ffffff?style=for-the-badge&logo=testit&logoColor=4aa73c)
 ![Header](https://img.shields.io/badge/Fiddler-ffffff?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Charles_Proxy-ffffff?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
-
 
 
 
