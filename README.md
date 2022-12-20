@@ -8,6 +8,7 @@
 
 ![Header](https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=f7c538)
+![Header](https://img.shields.io/badge/Pytest-ffffff?style=for-the-badge&logo=pytest&logoColor=c7d302)
 ![Header](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=f05030)
 ![Header](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=31648c)
 ![Header](https://img.shields.io/badge/DevTools-ffffff?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
