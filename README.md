@@ -22,6 +22,7 @@
 ![Header](https://img.shields.io/badge/Graylog-ffffff?style=for-the-badge&logo=graylog&logoColor=c4222f)
 ![Header](https://img.shields.io/badge/Kibana-ffffff?style=for-the-badge&logo=kibana&logoColor=e9478b)
 ![Header](https://img.shields.io/badge/Confluence-ffffff?style=for-the-badge&logo=confluence&logoColor=0a5ed8)
+![Header](https://img.shields.io/badge/MONGODB-ffffff?style=for-the-badge&logo=mongodb&logoColor=07ab4f)
 ![Header](https://img.shields.io/badge/DBeaver-ffffff?style=for-the-badge&logo=dbeaver&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/Test_IT-ffffff?style=for-the-badge&logo=testit&logoColor=4aa73c)
 ![Header](https://img.shields.io/badge/Fiddler-ffffff?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
