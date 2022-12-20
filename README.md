@@ -1,4 +1,4 @@
-[![Header](https://github.com/ZrelovAA/zrelovaa/blob/main/assets/header.png)](https://www.linkedin.com/in/bfv3aqa/)
+![Header](https://github.com/ZrelovAA/zrelovaa/blob/main/assets/header.png)
 ## Hello! My name is Andrei. I'm a QA Engineer.
 
 [Link to my CV 👈🏼](https://drive.google.com/file/d/1y9XBQYa5Dyhlwz_L7ryNqOeUqzswj8V7/view?usp=sharing)
