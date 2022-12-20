@@ -1,7 +1,7 @@
 [![Header](https://github.com/ZrelovAA/zrelovaa/blob/main/assets/header.png)](https://www.linkedin.com/in/bfv3aqa/)
 ## Hello! My name is Andrei. I'm a QA Engineer.
 
-[My CV 👈🏼]()
+[Link to my CV 👈🏼](https://drive.google.com/file/d/1y9XBQYa5Dyhlwz_L7ryNqOeUqzswj8V7/view?usp=sharing)
 --
 
 ### Language and Tools:
@@ -12,8 +12,10 @@
 ![Header](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=f05030)
 ![Header](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=31648c)
 ![Header](https://img.shields.io/badge/DevTools-ffffff?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/Swagger-ffffff?style=for-the-badge&logo=swagger&logoColor=6a9500)
 ![Header](https://img.shields.io/badge/Jira-ffffff?style=for-the-badge&logo=Jira&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/Jenkins-ffffff?style=for-the-badge&logo=jenkins&logoColor=000000)
+![Header](https://img.shields.io/badge/GitLab-ffffff?style=for-the-badge&logo=gitlab&logoColor=fc6d26)
 ![Header](https://img.shields.io/badge/VirtualBox-ffffff?style=for-the-badge&logo=virtualbox&logoColor=173761)
 ![Header](https://img.shields.io/badge/VisualStudioCode-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=1b84ca)
 ![Header](https://img.shields.io/badge/RabbitMQ-ffffff?style=for-the-badge&logo=rabbitmq&logoColor=f76935)
