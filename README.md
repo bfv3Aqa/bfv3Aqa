@@ -40,4 +40,4 @@
 [![Header](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/bfv3Aqa)
 [![Header](https://img.shields.io/badge/Linkedin-ffffff?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/bfv3aqa/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zrelovaa&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bfv3Aqa&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
