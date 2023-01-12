@@ -1,7 +1,7 @@
 ![Header](https://github.com/ZrelovAA/zrelovaa/blob/main/assets/header.png)
 ## Hi there! I'm a QA Engineer.
 
-[Link to my CV 👈🏼](https://drive.google.com/file/d/1y9XBQYa5Dyhlwz_L7ryNqOeUqzswj8V7/view?usp=sharing)
+[Link to my CV 👈🏼](https://drive.google.com/file/d/1sW6jE6_aCkovQH-46aGA-rsaU4YCkosj/view?usp=sharing)
 --
 
 ### Language and Tools:
@@ -31,6 +31,7 @@
 ![Header](https://img.shields.io/badge/Test_IT-ffffff?style=for-the-badge&logo=testit&logoColor=4aa73c)
 ![Header](https://img.shields.io/badge/Fiddler-ffffff?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Charles_Proxy-ffffff?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+
 
 
 
