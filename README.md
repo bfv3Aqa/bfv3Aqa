@@ -1,7 +1,7 @@
 ![Header](https://github.com/ZrelovAA/zrelovaa/blob/main/assets/header.png)
 ## Hi there! I'm a QA Engineer.
 
-[Link to my CV 👈🏼](https://drive.google.com/file/d/1DcDM-Ip0ln8nY_kVBQdWMCvC7QBysitw/view?usp=sharing)
+[Link to my CV 👈🏼](https://drive.google.com/file/d/1MRe2SJsDEUwCOLoWgGLZ3uSCmjKXQ_3f/view?usp=sharing)
 --
 
 ### Language and Tools:
