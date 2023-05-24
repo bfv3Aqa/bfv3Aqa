@@ -1,5 +1,5 @@
 ![Header](https://github.com/bfv3Aqa/bfv3Aqa/blob/main/assets/header.png)
-## 👨‍💻 Hi there! I'm a QA Engineer.
+## 👨‍💻 Hi there! I'm a QA Automation Engineer.
 
 [Link to my CV 👈🏼](https://drive.google.com/file/d/1p9XSoZuVhM4HSz_WQLLBd827mnVN1VAk/view?usp=sharing)
 --
@@ -19,7 +19,7 @@
 ![Header](https://img.shields.io/badge/Jira-ffffff?style=for-the-badge&logo=Jira&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/Jenkins-ffffff?style=for-the-badge&logo=jenkins&logoColor=000000)
 ![Header](https://img.shields.io/badge/GitLab-ffffff?style=for-the-badge&logo=gitlab&logoColor=fc6d26)
-![Header](https://img.shields.io/badge/VirtualBox-ffffff?style=for-the-badge&logo=virtualbox&~logoColor=0073b1)
+![Header](https://img.shields.io/badge/VirtualBox-ffffff?style=for-the-badge&logo=virtualbox&~logoColor=1b84ca)
 ![Header](https://img.shields.io/badge/VSCode-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=1b84ca)
 ![Header](https://img.shields.io/badge/RabbitMQ-ffffff?style=for-the-badge&logo=rabbitmq&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=2674f2)
