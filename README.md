@@ -1,4 +1,4 @@
-![Header](https://github.com/ZrelovAA/zrelovaa/blob/main/assets/header.png)
+![Header](https://github.com/bfv3Aqa/bfv3Aqa/blob/main/assets/header.png)
 ## Hi there! I'm a QA Engineer.
 
 [Link to my CV 👈🏼](https://drive.google.com/file/d/1p9XSoZuVhM4HSz_WQLLBd827mnVN1VAk/view?usp=sharing)
