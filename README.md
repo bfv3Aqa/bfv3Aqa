@@ -1,7 +1,7 @@
 ![Header](https://github.com/bfv3Aqa/bfv3Aqa/blob/main/assets/header.png)
 ## 👨‍💻 Hi there! I'm a QA Automation Engineer.
 
-[Link to my CV 👈🏼](https://drive.google.com/file/d/1p9XSoZuVhM4HSz_WQLLBd827mnVN1VAk/view?usp=sharing)
+[Link to my CV 👈🏼](https://drive.google.com/file/d/1geFC23w9D1GX-vgDYX95b8uCxcXWt3HU/view?usp=sharing)
 --
 
 ### Language and Tools:
